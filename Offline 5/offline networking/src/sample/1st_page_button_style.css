@@ -1,0 +1,12 @@
+.clickButtoncoverpage{
+    -fx-background-color:#FF0000;
+    -fx-background-radius: 500;
+    -fx-border-radius: 100;
+    -fx-text-fill: white;
+}
+.clickButtoncoverpage:hover{
+    -fx-background-color:#FFFFFF;
+    -fx-background-radius: 500;
+    -fx-border-radius: 100;
+    -fx-text-fill: red;
+}
